@@ -1,5 +1,2 @@
-application-name:lab3
-lucky-word:radhika
-spring:
-  profiles: subject
-words: I,You,He,She,It
+---
+lucky-word: Irish
